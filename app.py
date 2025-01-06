@@ -54,7 +54,7 @@ st.title("Object Detection App")
 st.header("Upload Images or a Folder of Images for Detection")
 
 # Pre-configured model path
-model_path = "model/best.pt"
+model_path = "best.pt"
 
 # Load the model
 st.write("Loading the model...")
